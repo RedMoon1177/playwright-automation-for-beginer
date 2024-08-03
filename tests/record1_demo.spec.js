@@ -17,7 +17,7 @@ test("test", async ({ page }) => {
   await page.locator('[data-test="password"]').fill("secret_sauce");
 
   //Click [data-set="login-button"]
-  await page.locator('[data-test="login-button"]').click();
+  await page.locator('[data-test="login-button123"]').click();
   await expect(page).toHaveURL("https://www.saucedemo.com/inventory.html");
 
   // Click text=Open Menu
