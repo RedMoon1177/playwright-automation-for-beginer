@@ -9,3 +9,5 @@ learning: https://www.youtube.com/playlist?list=PLhW3qG5bs-L9sJKoT1LC5grGT77sfW0
 ### How to find Web Objects
 
 ### Assertions
+
+### Set video recording and slow motion
